@@ -1,8 +1,8 @@
 # POC - Advanced Cluster Management
 
-Ce répo contient des fichiers de travail d'une preuve de concept de Advanced Cluster Management dans un contexte entreprise. Le répo se veut privé afin d'éviter toute fuite d'information qui ne devrait pas être accessibles publiquement. Ce répo peut être détruit à la fin de la POC à la convenance du client. Il pourrait également être ouvert au publique sur acceptation du client. 
+This repo contains working files of a proof of concept of Advanced Cluster Management in a business context. The repo is intended to be private in order to avoid any leakage of information which should not be accessible to the public. This response can be destroyed at the end of the POC at the customer's convenience. It could also be open to the public upon acceptance by the customer. 
 
-## Structure de répertoires
+## Directory structure
 
 - notes
 - policies
